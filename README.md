@@ -1,5 +1,6 @@
 # MiWhipCodingTest
 The APK can be run by cloning the project from the link https://github.com/AfreenHasheem/MiWhipCodingTest.git
+
 Tool required to run the project : Android Studio
 Once you clone the project, open it using Android Studio and run it on a real Android Device as this has been tested on a real device.
 MainActivity.class consists of the UI changes and initial permissions required from the user's end for the application to access the phone's gps functionality. Only once the user allows will the data be sent to the server.
